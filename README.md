@@ -31,6 +31,7 @@ Change the details for database in node app :
     });
 
 
+
 To Run the Project: 
 
   
@@ -43,3 +44,5 @@ To Run the Project:
 On clicking the port address, test one the texts present in queries.txt in the node app textarea. Leave a line between text and cursor and present Submit to generate the result. The written text will appear in general.txt and generated query will appear in sql.txt which will be used by node application to fetch the result from database "Students".
 
 <img width="1223" alt="Screenshot 2024-04-06 at 1 04 29 AM" src="https://github.com/Prakhar151202/Text-To-SQL-Generator/assets/116758420/4879bab5-033d-4136-b486-db3faa3cdf0c">
+
+<img width="810" alt="Screenshot 2024-04-06 at 1 05 01 AM" src="https://github.com/Prakhar151202/Text-To-SQL-Generator/assets/116758420/fa1009e5-2f9f-4319-ae52-fe82076c1c98">
