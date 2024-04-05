@@ -1,0 +1,12 @@
+Please give me roll from students .
+Please give me all the information of the student whose cpi greater than 7.5 .
+Please give me all the information of the student whose cpi greater 7.8 and id greater 3 .
+Please give me all the information of the students .
+Please give me all the information of the student whose roll is 128 .
+Please update student id to 3 whose roll is 128 .
+please remove the student having roll as 132 .
+please give name and roll from student whose cpi greater than 8.
+Please give me all the information of the student whose id is 3.
+Please update the student cpi to 9 whose roll is 136 .
+Please give me id and name from student having roll greater than 140 .
+Please give roll from student whose name is "Prakhar" .
