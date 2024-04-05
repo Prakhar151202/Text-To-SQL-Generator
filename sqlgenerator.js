@@ -21,8 +21,8 @@ app.set('view engine', 'ejs');
 const connection = mysql.createConnection({
     host:"localhost",
     user:"root",
-    password:"prakhar12345",
-    database:"compilers"
+    password:"",
+    database:""
 });
 connection.connect(function(err){
     if(err) throw err;
